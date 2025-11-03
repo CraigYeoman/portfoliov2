@@ -29,6 +29,15 @@ export default function Skills() {
         <p>PostgreSQL</p>
         <p>MongoDD</p>
       </div>
+      <div>
+        <h3>
+          Tools
+        </h3>
+        <p>Jest</p>
+        <p>Postman</p>
+        <p>Git</p>
+        <p>Docker</p>
+      </div>
     </div>
   )
 } 
