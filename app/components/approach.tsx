@@ -1,7 +1,7 @@
 export default function Approach() {
 
   return (
-    <div>
+    <div className="flex flex-col gap-4 md:gap-8">
 
       <h2>My Approach</h2>
 
